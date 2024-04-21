@@ -1,6 +1,6 @@
 import requests
 
-URL = "https://api.pokemonbattle.me"
+URL = "https://api"
 HEADER = {
     "Content-Type": "application/json",
     "trainer_token": "0e1f9cd8d97622f436805822daac440f"
@@ -9,8 +9,8 @@ HEADER = {
 
 # body = {
   #  "trainer_token": "0e1f9cd8d97622f436805822daac440f",
-   # "email": "setinop978@agaseo.com",
-   # "password": "Iloveqa1"
+   # "email": "",
+   # "password": ""
 #  }
 
 #response = requests.post(url=f"{URL}/v2/trainers/reg", json=body, headers=HEADER, timeout=5)

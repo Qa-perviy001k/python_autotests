@@ -3,12 +3,12 @@ import requests
 URL = "https://api"
 HEADER = {
     "Content-Type": "application/json",
-    "trainer_token": "0e1f9cd8d97622f436805822daac440f"
+    "trainer_token": ""
     "trainer_id": "2978"
 }
 
 # body = {
-  #  "trainer_token": "0e1f9cd8d97622f436805822daac440f",
+  #  "trainer_token": "",
    # "email": "",
    # "password": ""
 #  }
@@ -27,7 +27,7 @@ HEADER = {
 #body = {
     #"pokemon_id": "18350",
     #"name": "Boris12",
-    #"photo": "https://dolnikov.ru/pokemons/albums/008.png"
+    #"photo": "https:/vasios/albums/008.png"
 #}
 
 #response = requests.put(url=f'{URL}/v2/pokemons', headers=HEADER, json=body)

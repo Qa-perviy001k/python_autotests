@@ -1,10 +1,10 @@
 import requests
 import pytest
 
-URL = "https://api.pokemonbattle.me"
+URL = "https://api"
 HEADER = {
     "Content-Type": "application/json",
-    "trainer_token": "0e1f9cd8d97622f436805822daac440f"
+    "trainer_token": ""
 }
 
 def test_get_trainers():

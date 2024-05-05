@@ -1,1 +1,1 @@
-# Cypress + JS
+# Автотесты веб проекта Python + Request

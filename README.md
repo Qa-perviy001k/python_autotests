@@ -1,1 +1,1 @@
-# python_autotests
+# Cypress + JS
